@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/indigo/static/css/main.50b67c8a.chunk.css",
+    "main.js": "/indigo/static/js/main.bb7231a1.chunk.js",
+    "main.js.map": "/indigo/static/js/main.bb7231a1.chunk.js.map",
+    "runtime-main.js": "/indigo/static/js/runtime-main.3fd49978.js",
+    "runtime-main.js.map": "/indigo/static/js/runtime-main.3fd49978.js.map",
+    "static/js/2.a2f7cd12.chunk.js": "/indigo/static/js/2.a2f7cd12.chunk.js",
+    "static/js/2.a2f7cd12.chunk.js.map": "/indigo/static/js/2.a2f7cd12.chunk.js.map",
+    "static/js/3.9ff9c9f5.chunk.js": "/indigo/static/js/3.9ff9c9f5.chunk.js",
+    "static/js/3.9ff9c9f5.chunk.js.map": "/indigo/static/js/3.9ff9c9f5.chunk.js.map",
+    "index.html": "/indigo/index.html",
+    "static/css/main.50b67c8a.chunk.css.map": "/indigo/static/css/main.50b67c8a.chunk.css.map",
+    "static/js/2.a2f7cd12.chunk.js.LICENSE.txt": "/indigo/static/js/2.a2f7cd12.chunk.js.LICENSE.txt",
+    "static/media/profilepic.2de33973.jpg": "/indigo/static/media/profilepic.2de33973.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fd49978.js",
+    "static/js/2.a2f7cd12.chunk.js",
+    "static/css/main.50b67c8a.chunk.css",
+    "static/js/main.bb7231a1.chunk.js"
+  ]
+}
