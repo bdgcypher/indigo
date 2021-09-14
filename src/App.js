@@ -1,23 +1,21 @@
+import React from 'react';
 import './App.css';
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Home from './components/pages/Home';
 import Loader from './components/Loader';
-import Navbar from './components/Navbar.js'
-import Hero from './components/Hero.js'
-import Section1 from './components/Section1.js'
-import Section2 from './components/Section2.js'
-import Section3 from './components/Section3.js'
-import Footer from './components/Footer.js'
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <Router>
         <Loader />
         <Navbar />
-        <Hero />
-        <Section1 />
-        <Section2 />
-        <Section3 />
-        <Footer />
-    </div>
+        <Switch>
+          <Route path="/indigo/" exact  component={Home}/>
+        </Switch>
+      </Router>
+    </>
   );
 }
 
