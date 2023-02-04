@@ -12,7 +12,7 @@ function App() {
         <Loader />
         <Navbar />
         <Switch>
-          <Route path="/indigo/" exact  component={Home}/>
+          <Route path="/" exact  component={Home}/>
         </Switch>
       </Router>
     </>
