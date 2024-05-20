@@ -22,4 +22,4 @@ visit the hosted page [here](https://shop-indigo.netlify.app/).
 4. Open http://localhost:3000 in your browser
 5. See the site in all its glory
 
-You are welcome you to explore the code and offer any feedback or suggestions for improvement. Thank you for visiting this project!
+You are welcome to explore the code and offer any feedback or suggestions for improvement. Thank you for visiting this project!
